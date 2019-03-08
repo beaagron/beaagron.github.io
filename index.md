@@ -1,6 +1,6 @@
 ## Smart Lecture Notes
 
-<img href=beaagron.github.io/inClass.png/>
+<img href="beaagron.github.io/inClass.png"/>
 
 ### Markdown
 
