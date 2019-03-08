@@ -1,6 +1,6 @@
 ## Smart Lecture Notes
 
-![alt](https://github.com/beaagron/beaagron.github.io/raw/master/classListGrid.png | width=50)
+![alt|50%](https://github.com/beaagron/beaagron.github.io/raw/master/classListGrid.png)
 
 ### Markdown
 
