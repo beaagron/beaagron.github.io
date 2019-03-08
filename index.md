@@ -1,6 +1,6 @@
 ## Smart Lecture Notes
 
-<img href=beaagron.github.io/Screen Shot 2019-03-07 at 11.45.43 PM.png/>
+<img href=beaagron.github.io/inClass.png/>
 
 ### Markdown
 
