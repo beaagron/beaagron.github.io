@@ -1,8 +1,6 @@
 ## Smart Lecture Notes
 
-You can use the [editor on GitHub](https://github.com/beaagron/beaagron.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](Screen Shot 2019-03-07 at 11.45.43 PM.png)
 
 ### Markdown
 
