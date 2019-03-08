@@ -1,6 +1,6 @@
 ## Smart Lecture Notes
 
-[[https://github.com/beaagron/beaagron.github.io/master/Screen Shot 2019-03-07 at 11.45.43 PM.png|alt=screenshot of iOS app]]
+<img href=beaagron.github.io/Screen Shot 2019-03-07 at 11.45.43 PM.png/>
 
 ### Markdown
 
