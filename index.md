@@ -5,7 +5,7 @@
 <img src="https://github.com/beaagron/beaagron.github.io/raw/master/confirmationTags.png" width="300" height="650">
 
 <p float="left">
-  <img src="https://github.com/beaagron/beaagron.github.io/raw/master/classListHorizontal.png" width="100" />
-  <img src="https://github.com/beaagron/beaagron.github.io/raw/master/inClass.png" width="100" /> 
-  <img src="https://github.com/beaagron/beaagron.github.io/raw/master/confirmationTags.png" width="100" />
+  <img src="https://github.com/beaagron/beaagron.github.io/raw/master/classListHorizontal.png" width="250" />
+  <img src="https://github.com/beaagron/beaagron.github.io/raw/master/inClass.png" width="250" /> 
+  <img src="https://github.com/beaagron/beaagron.github.io/raw/master/confirmationTags.png" width="250" />
 </p>
